@@ -8,7 +8,7 @@ An interactive installation that detects shapes drawn on a physical canvas and t
 
 ## Run The Project
 
-Download the Processing IDE [here](https://processing.org/download)
-Install the processing.video library
-Open the project (project.pde)
-Press play to start sketch
+Download the Processing IDE [here](https://processing.org/download)<br>
+Install the processing.video library<br>
+Open the project (project.pde)<br>
+Press play to start sketch<br>
