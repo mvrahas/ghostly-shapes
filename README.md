@@ -13,4 +13,4 @@ View [here](https://www.youtube.com/watch?v=6qYEf4AhuUI) on YouTube
 1) Download the Processing IDE [here](https://processing.org/download)<br>
 2) Install the processing.video library<br>
 3) Open the project (shapesProject.pde)<br>
-4) Press play to start sketch
+4) Press play ▶️ to start sketch
